@@ -1,2 +1,2 @@
 # politica-privacidade
-Política de Privacidade do App MediaPlay
+Política de Privacidade do App Saturn Stream
